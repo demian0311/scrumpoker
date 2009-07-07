@@ -27,7 +27,7 @@ public class ScrumPokerActivity extends Activity
 	private ListView displayPointsListView;
 	private final String[] POINTS =
 	{ "?", "0", "\u00BD", "1", "2", "3", "5", "8", "13", "20", "40", "100",
-			"\u221E" };
+			"\u221E" }; // the unicode is 1/2 and infinity
 
 	/** Called when the activity is first created. */
 	@Override
